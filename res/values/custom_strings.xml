@@ -323,5 +323,7 @@
     <string name="icon_manager_title">Icon manager</string>
     <string name="icon_manager_summary">Control visibility of status bar icons</string>
 
+    <!-- General -->
+    <string name="category_name_gestures">Gestures</string>
 
 </resources>
